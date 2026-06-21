@@ -17,3 +17,10 @@ This project was an upgrade of the previous. I learned to make the LED fade betw
 **Components:** NodeMCU ESP8266, 1 LED, 1 resistor, 2 jumper wires, 1 breadboard
 
 **What I learned:** PWM, analogWrite, for loops, PWM and duty cycles, analog vs digital signals
+
+### 3. Button Controlled LED with debouncing
+I made this project so I could learn about outputs
+
+**Components:** NodeMCU ESP8266, 2 LED, 2 resistor, 2 jumper wires, 1 breadboard
+
+**What I learned:** Outputs, debouncing presses using millis()
